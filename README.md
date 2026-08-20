@@ -230,7 +230,6 @@ are:
 | [DEMO.md](docs/DEMO.md) | Failover walkthroughs with expected output |
 | [FLIGHT_DATA.md](docs/FLIGHT_DATA.md) | Dataset, streaming pipeline, Spark analytics |
 | [TESTING.md](docs/TESTING.md) | Test coverage and its gaps |
-| [CONTRIBUTIONS.md](docs/CONTRIBUTIONS.md) | Team and node roles |
 
 ---
 
